@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cap-app-from-windows",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
